@@ -1,0 +1,1 @@
+Inainte de a rula aplicatia citeste documentul despre aplicatie.
